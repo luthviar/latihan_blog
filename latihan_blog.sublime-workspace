@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arti",
+				"article"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"File",
+				"FileReader"
+			],
+			[
+				"buff",
+				"bufferW"
+			],
+			[
+				"Numbe",
+				"NumberFormatException"
+			],
+			[
+				"mea",
+				"mean_"
+			],
+			[
+				"mean",
+				"mean"
+			],
+			[
+				"index",
+				"indexMedian"
+			],
+			[
+				"Num",
+				"NumberFormatException"
+			],
+			[
+				"par",
+				"parseDouble"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"simu",
+				"simulasi_bt"
+			],
+			[
+				"sto",
+				"stop_bt"
+			],
+			[
+				"crea",
+				"create_image"
+			],
+			[
+				"main",
+				"mainPage"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"protec",
+				"protectionCost"
+			],
+			[
+				"pro",
+				"protectionCost"
+			],
+			[
+				"cos",
+				"costPerKM"
+			],
+			[
+				"firs",
+				"firstCost"
+			],
+			[
+				"path",
+				"pathTraceback"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"compar",
+				"compareTo"
+			],
+			[
+				"nam",
+				"nama1"
+			],
+			[
+				"nama",
+				"nama2"
+			],
+			[
+				"repo",
+				"repostChain"
+			],
+			[
+				"kar",
+				"karyawan"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"kara",
+				"Karyawan"
+			],
+			[
+				"Sta",
+				"StafIT"
+			],
+			[
+				"comam",
+				"commandArgs"
+			],
+			[
+				"comm",
+				"commandArgs"
+			],
+			[
+				"nex",
+				"hasNextLine"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"team",
+				"teams"
+			],
+			[
+				"jumlah",
+				"jumlahGol"
+			],
+			[
+				"get",
+				"getSelisihGol"
+			],
+			[
+				"tea",
+				"teamB"
+			],
+			[
+				"getJumlah",
+				"getJumlahGol"
+			],
+			[
+				"getTea",
+				"getTeamByPeringkat"
+			],
+			[
+				"comma",
+				"commandArgs"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"jumla",
+				"jumlahGol"
+			],
+			[
+				"name",
+				"nameORnumber"
+			],
+			[
+				"Kar",
+				"kartuKuning"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"gol2",
+				"golTeam2"
+			],
+			[
+				"te",
+				"team1"
+			],
+			[
+				"gol",
+				"golTeam1"
+			],
+			[
+				"jumlh",
+				"jumlahPoin"
+			],
+			[
+				"go",
+				"golTeam2"
+			],
+			[
+				"playe",
+				"playerIndex"
+			],
+			[
+				"pel",
+				"jumlahPelanggaran"
+			],
+			[
+				"juml",
+				"jumlahGol"
+			],
+			[
+				"player",
+				"playerNumber"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"gra",
+				"graduate"
+			],
+			[
+				"gradu",
+				"graduateEstimation"
+			],
+			[
+				"birth",
+				"birthPlace"
+			],
+			[
+				"bir",
+				"birthDate"
+			],
+			[
+				"bit",
+				"birthPlace"
+			],
+			[
+				"hitu",
+				"hitungKaloriStationaryBike"
+			],
+			[
+				"hitung",
+				"hitungKaloriHarian"
+			],
+			[
+				"Kl",
+				"hitungKaloriHarian"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"wri",
+				"writeDB"
+			],
+			[
+				"mo",
+				"months"
+			],
+			[
+				"yea",
+				"years"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"pecha",
+				"pecahan"
+			],
+			[
+				"pecah",
+				"pecahan2"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"book",
+				"booking_detail"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ex",
+				"expr"
+			],
+			[
+				"tur",
+				"turnOff"
+			],
+			[
+				"Shi",
+				"shiftUp"
+			],
+			[
+				"anc",
+				"anchorX"
+			],
+			[
+				"create",
+				"create_rectangle"
+			],
+			[
+				"Grad",
+				"GraduateStudent"
+			],
+			[
+				"so",
+				"something2"
+			],
+			[
+				"show",
+				"showerror"
+			],
+			[
+				"bar",
+				"barHeight"
+			],
+			[
+				"wid",
+				"winfo_reqwidth"
+			],
+			[
+				"check",
+				"checkInput"
+			],
+			[
+				"file",
+				"fileInput"
+			],
+			[
+				"cre",
+				"create_text"
+			],
+			[
+				"ean",
+				"eanLabel"
+			],
+			[
+				"Mou",
+				"MouseClick"
+			],
+			[
+				"ofil",
+				"ofile_name"
+			],
+			[
+				"ifile",
+				"ifile_name"
+			],
+			[
+				"list",
+				"listOfWords"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"lis",
+				"list_count"
+			],
+			[
+				"wsop",
+				"wstop_list"
+			],
+			[
+				"wstop",
+				"wstop_list"
+			],
+			[
+				"sq",
+				"sqroot"
+			],
+			[
+				"a",
+				"arr2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Crun.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Crun.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C#.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C#.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C#.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Pascal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pascal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Pascal.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"view me",
+				"View: Toggle Menu"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"java\t",
+				"Set Syntax: Java"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"mip",
+				"Set Syntax: MIPS"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"c\t",
+				"Set Syntax: C++"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"cmd",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"verilog",
+				"Set Syntax: Verilog"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"umur",
+			"javac",
+			"lksdjaflkd",
+			"compile g++ A.cpp",
+			"compile",
+			"running g++ A.cpp",
+			"g++ A.cpp",
+			"g++ \"D:\\OLIMPIADE\\Programs\\UI - ACM ICPC\\Seleksi 1 - Kontes Panjang\\A.cpp\" -o \"D:\\OLIMPIADE\\Programs\\UI - ACM ICPC\\Seleksi 1 - Kontes Panjang/A\"",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ABACABA",
+			"g++ kmp.cpp",
+			"kmp.exe",
+			"printf(\"%d\",a);",
+			"a=10",
+			"g++ kmp",
+			"kmp",
+			"kmp.exe"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/resources/views/articles/show.blade.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/routes/web.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/app/Http/Controllers/ArticleController.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/app/Article.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/resources/views/articles/create.blade.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/.env",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/config/database.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/database/migrations/2017_05_07_071054_create_articles_table.php",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/input.in",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/output.out",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Statprob.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Lab9.java",
+		"/D/My Documents/Documents/College/2017/FUKI ITF/Projects/latihan_blog/latihan_blog/database/migrations/2017_05_07_050825_create_articles_table.php",
+		"/D/My Documents/Documents/College/2017/Intern/GdpLabs/sample1.cpp",
+		"/D/My Documents/Documents/College/2017/Intern/GdpLabs/sample2.cpp",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Main.java",
+		"/E/xampp/htdocs/itforce/cobaExpress/node_modules/bson/browser_build/bson.js",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Tes.java",
+		"/D/CTF/ringzer0team/20 Forensic- Matrix Password/86b265d37d1fc10b721a2accae04a60d.crdownload",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Angklung.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Kolintang.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Bonang.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Desc.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Home.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Objek.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Main.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Angklung1.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/config.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/tools.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/kolintang.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/desc.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/home.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/objek.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/canvas.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/proyekakhir.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/main-window.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/edited/kolintang.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/test.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/bonang-desc",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/kolintang-desc.txt",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/angklung-desc.txt",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/Tugas4-1606917992-RaihanMahendraSutanto.py",
+		"/D/My Documents/Documents/College/1st Term/DDP1/TugasPemrograman/TP4/Muhammad Ashlah Shinfain_asg04.py",
+		"/D/My Documents/Documents/College/2nd Term/MPKT-A/final-project-mpkta/tes.py",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/map.txt",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/OjekSporty.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/OjekExclusive.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/OjekRegular.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/OwJek.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/Main.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/Coordinate.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/Order.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/Map.java",
+		"/D/OLIMPIADE/Teach/ICG/shortestPath.cpp",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Main.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/Map-backup.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/source/map.txt",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/2/source/Map.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Pakaian.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Makanan.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Elektronik.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Item.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/9/Lab8.java",
+		"/D/OLIMPIADE/Teach/ICG/floodFill.cpp",
+		"/D/OLIMPIADE/Teach/ICG/upUP.cpp",
+		"/D/OLIMPIADE/Teach/ICG/A.cpp",
+		"/D/OLIMPIADE/Teach/ICG/C.cpp",
+		"/D/OLIMPIADE/Teach/ICG/D.cpp",
+		"/D/OLIMPIADE/Teach/ICG/B.cpp",
+		"/D/OLIMPIADE/Programs/Ristek/Monthly Contest 1/mmr.cpp",
+		"/D/OLIMPIADE/Programs/Ristek/Monthly Contest 1/mewarnai-kotak.cpp",
+		"/D/OLIMPIADE/Programs/Ristek/Monthly Contest 1/namcap-dan-gua.cpp",
+		"/E/xampp/htdocs/cgt/cgtProyek1/routes/web.php",
+		"/D/My Documents/Documents/College/2nd Term/POK/Lab/5/avr102.asm",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/Security.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/Janitor.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/StafHRD.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/StafIT.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/Staf.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/Karyawan.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/7/Perusahaan.java",
+		"/E/xampp/htdocs/cgt/cgtProyek1/resources/views/auth/login.blade.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/resources/views/employees.blade.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Controllers/TrainerController.php",
+		"/E/xampp/htdocs/itforce/cobaExpress/package.json",
+		"/E/xampp/htdocs/itforce/cobaExpress/bin/www",
+		"/E/xampp/htdocs/itforce/cobaExpress/app.js",
+		"/E/xampp/htdocs/pti/css/custom.css",
+		"/E/xampp/htdocs/hashlash.github.io/index.html",
+		"/E/xampp/htdocs/pti/index.html",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/6/StringReversal.java",
+		"/E/xampp/htdocs/compfest/ctf/cf9-soal-web-log_me_in/assets/js/script.js",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Lab/6/Duplikasi.java",
+		"/E/xampp/htdocs/compfest/ctf/cf9-soal-web-log_me_in/index.html",
+		"/E/xampp/htdocs/cgt/cgtProyek1/resources/views/auth/register.blade.php",
+		"/E/xampp/htdocs/itforce/cobaExpress/public/stylesheets/style.css",
+		"/E/xampp/htdocs/itforce/cobaExpress/routes/index.js",
+		"/E/xampp/htdocs/itforce/cobaExpress/views/index.ejs",
+		"/E/xampp/htdocs/itforce/cobaExpress/routes/users.js",
+		"/E/xampp/htdocs/itforce/basics/index.html",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Kernel.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Controllers/HRController.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Policies/EmployeePolicy.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/Train/Tambah.java",
+		"/E/Program Files (x86)/GRETECH/GomPlayer/setting.ini",
+		"/D/OLIMPIADE/Programs/Algorithm/Graph/Flow Network/maxflow.cpp",
+		"/D/OLIMPIADE/Programs/ACM TJU/1736. Knight Moves.cpp",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Controllers/HomeController.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/app/Http/Controllers/Auth/LoginController.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/routes/console.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/routes/channels.php",
+		"/E/xampp/htdocs/cgt/cgtProyek1/routes/api.php",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Game.java",
+		"/D/test.py",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Pertandingan.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Liga.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Tim.java",
+		"/D/My Documents/Documents/College/2nd Term/DDP2/TP/1/Pemain.java",
+		"/E/xampp/htdocs/itforce/index.html",
+		"/E/xampp/htdocs/itforce/terminal.glue",
+		"/E/xampp/htdocs/tes/index.html",
+		"/E/xampp/htdocs/tes/smoothScroll.html",
+		"/D/OLIMPIADE/Programs/TOKI/Bab 3 - Ad Hoc/3C - Teori Bilangan/3-C-2-Prima Ke-K.cpp",
+		"/E/xampp/htdocs/zero/login/style.css"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\OLIMPIADE\\Programs",
+			"D:\\My Documents\\Documents\\College\\2nd Term\\DDP2\\Lab\\5",
+			"D:\\My Documents\\Documents\\College\\2nd Term\\DDP2\\TP\\1",
+			"D:\\My Documents\\Documents\\College\\2nd Term\\DDP2\\Lab"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"konten",
+			"judul",
+			"secret",
+			"count",
+			"i",
+			"j",
+			"i",
+			"write",
+			"bufferW",
+			"BufferedWriter",
+			"write",
+			"bufferW",
+			"bufferR",
+			"out",
+			"output",
+			"BufferedWriter",
+			"System.out.println",
+			"list",
+			"System.out.println",
+			"buffer",
+			"bufferR",
+			"Mean",
+			"arguments",
+			"Exception",
+			"IOException",
+			"Exception",
+			"IllegalArgumentException",
+			"Exception",
+			"mean",
+			"null",
+			"operation",
+			"IOEXception",
+			"simulasi_bt",
+			", fill = 'gold', activefill = 'blue'",
+			"img\\\\",
+			" fill = 'gold',",
+			", fill = 'gold'",
+			", activefill = 'blue'",
+			"Config",
+			"canvas.",
+			"canvas",
+			"Canv1",
+			"canv1",
+			"Label",
+			"image",
+			"indonesia",
+			"self",
+			"system",
+			"print",
+			"private",
+			"Regular",
+			"go",
+			"HEIGHT",
+			"public",
+			"Coordinate",
+			"added",
+			"iii",
+			"i",
+			"high",
+			"i",
+			"count",
+			".",
+			"'.')",
+			"flood",
+			".",
+			"###.#",
+			"i",
+			"idx",
+			"tmp",
+			"i",
+			"nama1",
+			"a",
+			"string(nama1)",
+			"nama1",
+			"name",
+			"name1",
+			"0",
+			"?",
+			"i",
+			"a",
+			"i",
+			"m",
+			"i",
+			"private",
+			"]);\n",
+			"ngoding",
+			"StafIT",
+			"ngoding",
+			"pemanggil",
+			".instanceOf(",
+			"isem",
+			"is",
+			"pemanggil",
+			"name",
+			"double",
+			"Double",
+			"Staf",
+			"name",
+			"command",
+			"hasNextLine",
+			"args",
+			"commandArgs",
+			"\");\n",
+			"view",
+			"intro-body",
+			"express",
+			"users",
+			"ad_",
+			"dfs",
+			"stack",
+			"dfs",
+			"bfs",
+			"substring",
+			"init(",
+			"league",
+			"rival",
+			"currentTeam",
+			"team",
+			"getJumlahGol()",
+			", ",
+			"goltea",
+			"Pelanggaran",
+			", ",
+			"}\n",
+			"teamIndex",
+			"idx",
+			"index",
+			"getPlayer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" instanceof ",
+			"\n",
+			"",
+			"%f",
+			"'",
+			";\t\n\t",
+			" {\n\t",
+			"\n}\n\n",
+			"\n}\n",
+			" {\n\t",
+			";\n\t",
+			";\n",
+			";\\n\n",
+			".radio",
+			"self.radio",
+			"I64",
+			"self.radio",
+			"gap()",
+			"code",
+			"443",
+			"4430",
+			",",
+			"=",
+			" ",
+			"long long"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 113.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "latihan_blog.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
